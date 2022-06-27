@@ -41,3 +41,9 @@ const person = {firstName : "Mansih",lastName  : "Himalaya",age     : 20, eyeCol
   
   document.getElementById("age").innerHTML =
   person.firstName + " is " + person.age + " years old.";
+
+
+function myFunction(p1,p2){
+    return p1*p2;
+}
+document.getElementById("function").innerHTML=myFunction(5,6);
