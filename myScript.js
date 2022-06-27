@@ -17,3 +17,8 @@ x=10;
 y=11;
 z=x+y;
 document.getElementById("state").innerHTML="The value of z is " + z + ".";
+
+var a, b ;
+a = 4+6;
+b=x*5;
+document.getElementById("simple").innerHTML=b;
