@@ -7,3 +7,9 @@ window.alert(22+2);
 alert(12+5);
 
 console.log(22+12);
+
+let x,y,z;
+x=10;
+y=11;
+z=x+y;
+document.getElementById("state").innerHTML="The value of z is " + z + ".";
