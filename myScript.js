@@ -32,8 +32,7 @@ let name1 = "Bibash ";
  name1 += " Giri";
  document.getElementById("name1").innerHTML=name1;
 
-
- let m= 5+5;
- let n = "5"+5;
- let o = "hello"+5;
- document.getElementById("string").innerHTML= m + "<br>" + n + "<br>" + o;
+let m= 5+5;
+let n = "5"+5;
+let o = "hello"+5;
+document.getElementById("string").innerHTML= m + "<br>" + n + "<br>" + o;
