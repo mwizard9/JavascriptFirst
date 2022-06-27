@@ -47,3 +47,10 @@ function myFunction(p1,p2){
     return p1*p2;
 }
 document.getElementById("function").innerHTML=myFunction(5,6);
+
+var d = multiply(5,8) ;
+document.getElementById("mul").innerHTML=d;
+
+function multiply(x1,y1){
+    return x1*y1 ;
+}
