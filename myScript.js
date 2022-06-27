@@ -3,3 +3,4 @@ function anish(){
 }
 
 document.write(11+60);
+window.alert(22+2);
