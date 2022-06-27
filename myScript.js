@@ -28,6 +28,6 @@ let text2= "Himalaya";
 let text3 = text1 + " " + text2 ;
 document.getElementById("name").innerHTML= text3;
 
-let name1 = "Bibash";
- name1 += "Giri";
+let name1 = "Bibash ";
+ name1 += " Giri";
  document.getElementById("name1").innerHTML=name1;
