@@ -22,3 +22,12 @@ var a, b ;
 a = 4+6;
 b=x*5;
 document.getElementById("simple").innerHTML=b;
+
+let text1= "Manish";
+let text2= "Himalaya";
+let text3 = text1 + " " + text2 ;
+document.getElementById("name").innerHTML= text3;
+
+let name1 = "Bibash";
+ name1 += "Giri";
+ document.getElementById("name1").innerHTML=name1;
