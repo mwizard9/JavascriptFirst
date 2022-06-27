@@ -37,11 +37,7 @@ let n = "5"+5;
 let o = "hello"+5;
 document.getElementById("string").innerHTML= m + "<br>" + n + "<br>" + o;
 
-const person = {
-    firstName : "Manish",
-    lastName : "Himalaya",
-    age : 20,
-    eyecolor : black
-};
-
-document.getElementById("info").innerHTML = person.firstName + person.lastName + "is"  + person.age + "years old";
+const person = {firstName : "Mansih",lastName  : "Himalaya",age     : 20, eyeColor  : "black"};
+  
+  document.getElementById("age").innerHTML =
+  person.firstName + " is " + person.age + " years old.";
