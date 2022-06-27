@@ -1,5 +1,6 @@
 function manish(){
     document.getElementById("demo").innerHTML="my name is manish himalaya";
+    document.getElementById("demo2").innerHTML="my name is prashant stha";
 }
 function anish(){
     document.getElementById("open").innerHTML="hello,how are you?";
