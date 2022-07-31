@@ -15,3 +15,6 @@ answer1 + "<br>" +answer2 + "<br>" + answer3 ;
 let x = "manish himalaya"; //x is astring
 let y= new String("manish himalaya"); //y is an object
 document.getElementById("object").innerHTML = (x==y);
+
+let text="abcdkskekkkrkskdkkadkskkdkdasdwvvfddd";
+document.getElementById('length').innerHTML=text.length;
