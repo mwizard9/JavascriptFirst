@@ -18,3 +18,6 @@ document.getElementById("object").innerHTML = (x==y);
 
 let text="abcdkskekkkrkskdkkadkskkdkdasdwvvfddd";
 document.getElementById('length').innerHTML=text.length;
+
+let str = "Apple, Banana, Kiwi";
+document.getElementById('slice').innerHTML=str.slice(7,13);
