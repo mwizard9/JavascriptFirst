@@ -21,3 +21,4 @@ document.getElementById('length').innerHTML=text.length;
 
 let str = "Apple, Banana, Kiwi";
 document.getElementById('slice').innerHTML=str.slice(7,13);
+document.getElementById('sl').innerHTML=str.slice(7);
